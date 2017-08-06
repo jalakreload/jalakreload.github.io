@@ -1207,6 +1207,9 @@ width:60%;
 .article {
 width: 98%;
 }
+.top-banner{
+max-width:90%;
+}
 #content_box {
 padding-right: 0;
 }
