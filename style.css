@@ -141,6 +141,7 @@ line-height:1;
 font: 14px/23px 'PT Sans', sans-serif;
 color: #666;
 background:#eeeded;
+overflow-x:hidden;
 }
 ::-moz-selection{
 background:#333;
