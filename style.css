@@ -393,12 +393,12 @@ margin-bottom: 20px;
 }
 .post-content {
 overflow: hidden;
-font-size: 14px;
+font-size: 16px;
 line-height: 23px;
 }
 .post-content2 {
 overflow: hidden;
-font-size: 14px;
+font-size: 16px;
 line-height: 23px;
 background:#fff;
 }
@@ -416,7 +416,7 @@ clear: both;
 margin-bottom: 30px;
 overflow: hidden;
 border-bottom: 1px solid #eee;
-margin-top: 40px;
+margin-top: 10px;
 }
 .wp-post-image {
 float: left;
@@ -668,7 +668,7 @@ line-height: 23px;
 margin-top:40px;
 }
 .widget {
-font-size: 14px;
+font-size: 15px;
 margin-bottom: 27px;
 overflow: hidden;
 }
@@ -676,7 +676,7 @@ overflow: hidden;
 font-weight:bold;
 text-transform:none;
 color:#545E68;
-font-size:12px;
+font-size:14px;
 }
 .widget li {
 display: block;
@@ -1230,8 +1230,8 @@ width: 48%;
 #navigation ul{float:none;display:inline-block;}
 #navigation ul ul{display:none;}
 .js #navigation > ul{display:none !important;}
-.js #navigation select{display:inline-block !important;max-width:none;border:none;padding:7px 15px;margin-top:10px;width:100%;color: #fff;
-background: #222;text-shadow: 0 1px 1px rgba(255, 255, 255, 0.4); font-size: 12px;
+.js #navigation select{display:inline-block !important;max-width:none;border:none;padding:10px 15px;margin-top:10px;margin-left:-10px;width:110%;color: #fff;
+background: #444;text-shadow: 0 1px 1px rgba(255, 255, 255, 0.4); font-size: 12px;
 -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2) inset , 0 1px 1px rgba(255, 255, 255, 0.9);
 -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2) inset , 0 1px 1px rgba(255, 255, 255, 0.9);
 box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2) inset , 0 1px 1px rgba(255, 255, 255, 0.9);
